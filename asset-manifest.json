@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chucknorrisAPI/static/css/main.399fab3c.chunk.css",
+    "main.js": "/chucknorrisAPI/static/js/main.2268ed34.chunk.js",
+    "main.js.map": "/chucknorrisAPI/static/js/main.2268ed34.chunk.js.map",
+    "runtime~main.js": "/chucknorrisAPI/static/js/runtime~main.7c51e33e.js",
+    "runtime~main.js.map": "/chucknorrisAPI/static/js/runtime~main.7c51e33e.js.map",
+    "static/js/2.9e064325.chunk.js": "/chucknorrisAPI/static/js/2.9e064325.chunk.js",
+    "static/js/2.9e064325.chunk.js.map": "/chucknorrisAPI/static/js/2.9e064325.chunk.js.map",
+    "index.html": "/chucknorrisAPI/index.html",
+    "precache-manifest.dbf93313d9f41be0ba4a2ac319ca7691.js": "/chucknorrisAPI/precache-manifest.dbf93313d9f41be0ba4a2ac319ca7691.js",
+    "service-worker.js": "/chucknorrisAPI/service-worker.js",
+    "static/css/main.399fab3c.chunk.css.map": "/chucknorrisAPI/static/css/main.399fab3c.chunk.css.map"
+  }
+}
