@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-axios/static/css/main.c2483814.chunk.css",
+    "main.js": "/react-axios/static/js/main.15e24a33.chunk.js",
+    "main.js.map": "/react-axios/static/js/main.15e24a33.chunk.js.map",
+    "runtime~main.js": "/react-axios/static/js/runtime~main.97130437.js",
+    "runtime~main.js.map": "/react-axios/static/js/runtime~main.97130437.js.map",
+    "static/js/2.e0f8f76f.chunk.js": "/react-axios/static/js/2.e0f8f76f.chunk.js",
+    "static/js/2.e0f8f76f.chunk.js.map": "/react-axios/static/js/2.e0f8f76f.chunk.js.map",
+    "index.html": "/react-axios/index.html",
+    "precache-manifest.08809c594f766941e2cc5220066bc354.js": "/react-axios/precache-manifest.08809c594f766941e2cc5220066bc354.js",
+    "service-worker.js": "/react-axios/service-worker.js",
+    "static/css/main.c2483814.chunk.css.map": "/react-axios/static/css/main.c2483814.chunk.css.map"
+  }
+}
